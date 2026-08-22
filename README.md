@@ -2,21 +2,24 @@
 <!-- HEADER ANIMATION BANNER -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,00f2fe,4facfe,7f00ff&height=220&section=header&text=Muhammad%20Ihsan%20Syarifudin&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Automation%20Tester%20%7C%20Tech%20Explorer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,00f2fe,4facfe,7f00ff&height=230&section=header&text=Muhammad%20Ihsan%20Syarifudin&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Middle%20Software%20QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing%20%7C%20BNSP%20System%20Analyst&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/MuhammadIhsan45">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+There!+%F0%9F%91%8B+I'm+Muhammad+Ihsan;Full-Stack+Web+Developer+%F0%9F%92%BB;Automation+Testing+Enthusiast+%F0%9F%A7%AA;Building+Smart+%26+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+There!+%F0%9F%91%8B+I'm+Muhammad+Ihsan;Middle+Software+QA+Engineer+%40+PT+BCA+Finance+%F0%9F%8F%A6;BNSP+Certified+System+Analyst+%F0%9F%93%9C;Specializing+in+Manual+%26+Automation+Testing+%F0%9F%A7%AA;Katalon+%7C+Cypress+%7C+Appium+%7C+Robot+Framework+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    📍 <b>Bantul, Yogyakarta, Indonesia</b> &nbsp;|&nbsp; 🏢 <b>SmileCode</b> &nbsp;|&nbsp; 🎓 <b>Computer Science Student / Developer</b>
+    📍 <b>Jakarta & Yogyakarta, Indonesia</b> &nbsp;|&nbsp; 🏦 <b>PT BCA Finance</b> &nbsp;|&nbsp; 📜 <b>BNSP System Analyst & Certiport Certified</b>
   </p>
 
-  <!-- QUICK CONTACT BADGES -->
+  <!-- QUICK CONTACT & SOCIAL BADGES -->
+  <a href="https://www.linkedin.com/in/muhammadihsansyarifudin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://instagram.com/_sanxzz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -36,24 +39,25 @@
 <!-- ========================================================================= -->
 <!-- ABOUT ME SECTION -->
 <!-- ========================================================================= -->
-## 💫 About Me
+## 🧪 About Me
 
 ```yaml
-identity:
+profile:
   name: "Muhammad Ihsan Syarifudin"
-  username: "MuhammadIhsan45"
-  location: "Bantul, Yogyakarta, Indonesia"
-  role: "Full-Stack Developer & Automation Tester"
-  company_org: "SmileCode"
-  passion: ["Web Development", "Automation Testing", "Algorithmic Systems", "Clean UI/UX"]
+  current_role: "Middle Software QA Engineer @ PT BCA Finance"
+  certifications:
+    - "BNSP Certified System Analyst"
+    - "Certiport Certified"
+  domains: ["Banking & Financial Services", "Fintech Systems", "Global Digital Platforms", "E-Commerce"]
+  specialization: "End-to-End Manual Testing, Test Automation (Web/Mobile/API), & Quality Governance"
 
-current_focus:
-  - 🚀 Building scalable web applications using React / Next.js & Node.js
-  - 🧪 Developing automated testing frameworks (Selenium / Cypress / Playwright)
-  - 💡 Creating efficient automated trading tools & backend services
-  - 🎨 Crafting modern, interactive visual UI/UX designs
+professional_background:
+  - 🏦 Middle Software QA Engineer @ PT BCA Finance (Enterprise Financial Systems & Business Workflow Automation)
+  - 🏛️ Software Quality Assurance @ PT Bank Syariah Indonesia Tbk (Core Banking T24 System & SIFO Squad Testing)
+  - 🌐 SQA Tester @ TesterWork (Functional & Transaction Testing for TikTok, Instagram, Crypto.com, Canva)
+  - 💻 Software QA Engineer @ Wesclic Technology
 
-motto: "Transforming complex logic into seamless digital experiences."
+qa_philosophy: "Delivering zero-defect software through rigorous automation, thorough test strategies, and seamless Agile collaboration."
 ```
 
 <br />
@@ -61,41 +65,53 @@ motto: "Transforming complex logic into seamless digital experiences."
 ---
 
 <!-- ========================================================================= -->
-<!-- TECH STACK & TOOLS GRID -->
+<!-- PROFESSIONAL EXPERIENCE TIMELINE -->
 <!-- ========================================================================= -->
-## 🛠️ Tech Stack & Skills
+## 💼 Experience Highlights
+
+| Role | Company / Client | Key Impact & Focus | Core Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Middle Software QA Engineer** | **PT BCA Finance** *(Full-time)* | Spearheading comprehensive testing strategies for enterprise financial systems, ensuring high reliability and performance across complex business workflows. | `Katalon Studio` `Automation` `Appium` `Robot Framework` |
+| **Software Quality Assurance** | **PT Bank Syariah Indonesia Tbk.** | Handled E2E testing projects for Core Banking T24 system & SIFO (Financing and Operations), serving as PIC for Product Testing in Agile squads. | `Jira` `Core Banking T24` `Cypress` `Appium` |
+| **SQA Tester (Freelance)** | **TesterWork** | Performed E2E functional & transaction testing for major global digital platforms (TikTok, Instagram, Crypto.com, Canva). | `Exploratory Testing` `SDLC` `Bug Tracking` |
+| **Software QA Engineer** | **Wesclic Technology** | Executed web/mobile exploratory testing, issue reporting, defect tracking, and regression validation. | `Cypress` `Automation` `Postman` |
+
+<br />
+
+---
+
+<!-- ========================================================================= -->
+<!-- TECH STACK & QA ARSENAL -->
+<!-- ========================================================================= -->
+## 🛠️ QA Arsenal & Technical Stack
 
 <div align="center">
 
-### 💻 Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🧪 Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### 🤖 Test Automation Frameworks (Web & Mobile)
+![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-A4C639?style=for-the-badge&logo=katalon&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-660066?style=for-the-badge&logo=appium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-### ⚙️ Developer Tools & Environments
+### 🔌 API & Performance Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📊 Test Management & Agile Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MetaTrader-0078D7?style=for-the-badge&logo=metatrader&logoColor=white)
+
+### 💻 Programming & Database Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -106,7 +122,7 @@ motto: "Transforming complex logic into seamless digital experiences."
 <!-- ========================================================================= -->
 <!-- GITHUB STATS DASHBOARD -->
 <!-- ========================================================================= -->
-## 📊 GitHub Analytics
+## 📊 QA & Testing Activity
 
 <div align="center">
   <table border="0">
@@ -131,16 +147,16 @@ motto: "Transforming complex logic into seamless digital experiences."
 ---
 
 <!-- ========================================================================= -->
-<!-- FEATURED PROJECTS SHOWCASE -->
+<!-- FEATURED QA PROJECTS & REPOSITORIES -->
 <!-- ========================================================================= -->
-## 🌟 Featured Projects
+## 🌟 Featured QA Projects & Artifacts
 
-| Project | Description | Tech Stack | Link |
+| Project / Repository | Category | Highlights & Capabilities | Link |
 | :--- | :--- | :--- | :---: |
-| 💸 **Money Tracker Web App** | Modern personal finance tracking application with dashboard, charts, & analytics. | `JavaScript` `React` `CSS3` | [View Repo](https://github.com/MuhammadIhsan45) |
-| 🏡 **Homestay Kadirojo** | Tourism homestay booking web platform featuring interactive catalog & reservation interface. | `Web Stack` `HTML/CSS` `JS` | [View Repo](https://github.com/MuhammadIhsan45) |
-| 🧪 **Automation Testing Suite** | End-to-end automated testing tool for web application validation & API health check. | `Selenium` `JavaScript` `Postman` | [View Repo](https://github.com/MuhammadIhsan45) |
-| 📈 **Algorithmic Trading EA** | Automated Expert Advisor trading strategy algorithms for MetaTrader platform. | `MQL4` `C#` `Automation` | [View Repo](https://github.com/MuhammadIhsan45) |
+| 🧪 **QA Automation Testing Tool** | Automation Suite | E2E Web & API automation testing tool with automated reporting & assertions. | [View Repo](https://github.com/MuhammadIhsan45) |
+| 🏦 **Core Banking Test Suites** | QA Engineering | Comprehensive test plan, test scenarios, & defect matrix for financial systems. | [View Repo](https://github.com/MuhammadIhsan45) |
+| 💸 **Money Tracker Web App** | Web App Testing | Modern financial tracking web app with unit & integration test coverage. | [View Repo](https://github.com/MuhammadIhsan45) |
+| 📈 **Trading Algorithmic Testing** | Quant & EA QA | Backtesting and validation scripts for financial algorithmic trading strategies. | [View Repo](https://github.com/MuhammadIhsan45) |
 
 <br />
 
@@ -167,12 +183,12 @@ motto: "Transforming complex logic into seamless digital experiences."
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30,00f2fe,4facfe,7f00ff&height=100&section=footer" width="100%" />
 
   <p>
-    ⚡ <i>"Stay curious, keep coding, and never stop innovating!"</i> ⚡
+    🛡️ <i>"Quality is not an act, it is a habit. Ensuring precision in every single build."</i> 🛡️
   </p>
 
   <!-- PROFILE VISITOR COUNTER -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadIhsan45&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MuhammadIhsan45&color=00f2fe&style=for-the-badge&label=QA+PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
